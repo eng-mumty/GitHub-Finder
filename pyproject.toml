@@ -1,0 +1,13 @@
+[project]
+name = "challange1"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "kafia sharma", email = "kafiasharma96@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "streamlit>=1.66.1",
+]
+
